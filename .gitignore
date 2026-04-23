@@ -1,0 +1,7 @@
+.idea
+/dist/
+/build/
+/debug_frame/
+/jueying.spec
+/detection/
+/textDetection/
