@@ -8,13 +8,13 @@ import paddlex
 
 # ================= 配置区（路径已根据你的环境写死） =================
 # 主程序入口文件路径
-MAIN_FILE = r"D:\project\game-auto\main.py"
+MAIN_FILE = r"D:\project\game-auto-package\main.py"
 
 # 输出目录名称
 DIST_NAME = "jueying"
 
 # 修改为你的图标文件路径
-ICON_FILE = r"D:\project\game-auto\assets\logo.ico"
+ICON_FILE = r"D:\project\game-auto-package\assets\logo.ico"
 
 # =================================================================
 EXTRA_RESOURCES = [
